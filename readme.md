@@ -23,7 +23,7 @@ This repository includes:
 - NumPy
 - Pandas
 - Matplotlib / Seaborn (if applicable)
-- <a href="https://ioepas.edu.np/wp-content/uploads/2025/01/foundation_of_data_science_lab_manual-1.pdf"FDS Lab Manual - Pashchimanchal Campus, IOE </a>
+- <a href="https://ioepas.edu.np/wp-content/uploads/2025/01/foundation_of_data_science_lab_manual-1.pdf"> FDS Lab Manual - Pashchimanchal Campus, IOE </a>
 
 ## 🎯 Purpose
 The main objectives of this repository are:
